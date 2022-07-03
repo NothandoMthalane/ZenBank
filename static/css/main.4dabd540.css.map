@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4dabd540.css","mappings":"gFAEA,EACE,qBAAsB,CAGtB,kCAAsC,CAFtC,QAAS,CACT,SAEF","sources":["App.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');\n\n*{\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n  font-family: 'Encode-Sans', sans-serif;\n}"],"names":[],"sourceRoot":""}

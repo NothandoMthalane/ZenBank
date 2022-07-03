@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ZenBank/static/css/main.4dabd540.css",
+    "main.js": "/ZenBank/static/js/main.3ceebfbe.js",
+    "static/media/video.mp4": "/ZenBank/static/media/video.7d1ea6a94986d5c2a068.mp4",
+    "static/media/svg-1.svg": "/ZenBank/static/media/svg-1.a735a369350afff2a588d0314f78c3c0.svg",
+    "static/media/svg-2.svg": "/ZenBank/static/media/svg-2.0d5eafcfa1b4a30e0bbdaeb28bff572e.svg",
+    "static/media/svg-3.svg": "/ZenBank/static/media/svg-3.1df0667af98bc723b3a089e08b59b54b.svg",
+    "index.html": "/ZenBank/index.html",
+    "main.4dabd540.css.map": "/ZenBank/static/css/main.4dabd540.css.map",
+    "main.3ceebfbe.js.map": "/ZenBank/static/js/main.3ceebfbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dabd540.css",
+    "static/js/main.3ceebfbe.js"
+  ]
+}
